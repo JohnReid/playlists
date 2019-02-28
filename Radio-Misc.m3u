@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Mi-Soul Radio
+http://87.98.130.255:8025/listen.pls?sid=1
 #EXTINF:-1,Radio Paradise
 http://stream-uk1.radioparadise.com/aac-128
 #EXTINF:-1,Naim Radio
