@@ -3,8 +3,6 @@
 http://stream.jazzknob.com
 #EXTINF:-1,Jazz FM
 http://tx.sharp-stream.com/http_live.php?i=jazzfmmobile.mp3
-#EXTINF:-1,Linn Jazz
-http://89.16.185.174:8000/stream
 #EXTINF:-1,NRK Jazz
 http://nrk-mms-live.telenorcdn.net:80/nrk_radio_jazz_mp3_h
 #EXTINF:-1,TSTU Jazz
@@ -13,3 +11,9 @@ http://radio.tstu.edu.ua:8000/jazz
 http://coolradio-jazz.stream.laut.fm/coolradio-jazz
 #EXTINF:-1,DR P8 Jazz
 http://live-icy.gss.dr.dk:8000/A/A22H.mp3
+#EXTINF:-1,Linn Jazz (1)
+http://opml.radiotime.com/Tune.ashx?id=s122120
+#EXTINF:-1,Linn Jazz (2)
+http://89.16.185.174:8000/stream
+#EXTINF:-1,Top blues
+http://us3.internet-radio.com:8342/

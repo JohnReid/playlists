@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Radio Paradise
+http://stream-uk1.radioparadise.com/aac-128
+#EXTINF:-1,Naim Radio
+http://37.130.228.60:8090/listen.pls
+#EXTINF:-1,Linn Radio
+http://opml.radiotime.com/Tune.ashx?id=s122119
+#EXTINF:-1,Linn Classical
+http://opml.radiotime.com/Tune.ashx?id=s122116
