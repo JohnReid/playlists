@@ -11,9 +11,11 @@ http://radio.tstu.edu.ua:8000/jazz
 http://coolradio-jazz.stream.laut.fm/coolradio-jazz
 #EXTINF:-1,DR P8 Jazz
 http://live-icy.gss.dr.dk:8000/A/A22H.mp3
-#EXTINF:-1,Linn Jazz (1)
-http://opml.radiotime.com/Tune.ashx?id=s122120
-#EXTINF:-1,Linn Jazz (2)
+#EXTINF:-1,Linn Jazz
 http://89.16.185.174:8000/stream
 #EXTINF:-1,Top blues
 http://us3.internet-radio.com:8342/
+#EXTINF:-1,Audiophile Jazz
+http://8.38.78.173:2199/tunein/jazz.pls
+#EXTINF:-1,Hi On Line Jazz
+http://mediaserv38.live-streams.nl:2199/tunein/onlinejazzradio.pls

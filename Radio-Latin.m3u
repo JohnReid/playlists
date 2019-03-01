@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1,La Super Estrella Sonidera Cumbia
-http://192.99.35.93:16380/listen.pls?sid=1
+http://usa5.fastcast4u.com:16380/
 #EXTINF:-1,Sonideros Cumbiamberos
-http://192.99.8.192:2762/listen.pls?sid=1
+http://192.99.8.192:2762/
 #EXTINF:-1,Radio Estilo Leblon
 http://us4.internet-radio.com:8193/
 #EXTINF:-1,El Metro Salsero
-http://198.178.123.14:7516/listen.pls?sid=1
+http://198.178.123.14:7516/
 #EXTINF:-1,Salsa Warriors
-http://192.99.17.12:6031/listen.pls?sid=1
+http://192.99.17.12:6031/
 #EXTINF:-1,Salsa Radio Amsterdam
-http://82.94.166.107:8067/listen.pls?sid=1
+http://82.94.166.107:8067/
