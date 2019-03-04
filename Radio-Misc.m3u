@@ -9,3 +9,7 @@ http://37.130.228.60:8090/
 http://89.16.185.174:8003/stream
 #EXTINF:-1,Linn Classical
 http://89.16.185.174:8004/stream
+#EXTINF:-1,NTS Radio Live Broadcast
+http://stream-relay-geo.ntslive.net/stream
+#EXTINF:-1,NTS Radio Live Broadcast (2)
+http://stream-relay-geo.ntslive.net/stream2
