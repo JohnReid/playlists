@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Radio Cubana
 http://streaming211.radionomy.com:80/Radio-Cubana
+#EXTINF:-1, Radio Musical de Cuba
+https://icecast.teveo.icrt.cu/Nbtz7HT3
 #EXTINF:-1, Radio Timbao-Timba
 http://streaming211.radionomy.com:80/RadioTIMBAO-TIMBA
 #EXTINF:-1, PINAR DEL RIO - Radio Guamá
