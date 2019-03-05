@@ -19,3 +19,20 @@ http://us3.internet-radio.com:8342/
 http://8.38.78.173:2199/tunein/jazz.pls
 #EXTINF:-1,Hi On Line Jazz
 http://mediaserv38.live-streams.nl:2199/tunein/onlinejazzradio.pls
+#EXTINF:-1,KUAZ Jazz
+http://streaming.azpm.org:80/kuaz192.mp3
+#EXTINF:-1,Wyoming Jazz
+http://wprhqstream4.uwyo.edu:8000/kuwl256.mp3
+#EXTINF:-1,WGUC Jazz
+http://50.31.202.197:80/noads-jazz
+#EXTINF:-1,Europa Radio Jazz
+http://thesoundofjazz.net:8000/TheSoundOfJazzHD
+#EXTINF:-1,Lush Life Jazz
+http://radio.stereoscenic.com/jazz-h.m3u
+#EXTINF:-1,NTR Blues
+http://icecast.omroep.nl:80/radio6-blues-bb-mp3
+#EXTINF:-1,NTR Jazz
+http://icecast.omroep.nl:80/radio6-jazz-bb-mp3
+#EXTINF:-1,Nederlandse 6 Jazz
+http://icecast.omroep.nl:80/radio6-jazzjong-mp3
+
